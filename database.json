@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Eugene Terry",
+      "email": "eugene.terry73@gmail.com"
+    },
+    {
+      "email": "Mark.Hey@mnn.org",
+      "name": "Mark Hay",
+      "id": 2
+    }
+  ],
+  "assignments": [
+    {
+      "userId": 1,
+      "courseId": 1,
+      "title": "Homework",
+      "dateGiven": "2021-09-30",
+      "dateDue": "2021-09-30",
+      "notes": "Work all problems",
+      "status": true,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "courseId": 1,
+      "title": "Read page 455",
+      "dateGiven": "2021-10-08",
+      "dateDue": "2021-10-16",
+      "notes": "Please write notes on what you read",
+      "status": true,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "courseId": 2,
+      "title": "Create a flow chart of your project",
+      "dateGiven": "2021-10-08",
+      "dateDue": "2021-10-09",
+      "notes": "Do it in PowerPoint",
+      "status": "",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "courseId": 6,
+      "title": "Paper on Tik Tok Reviews",
+      "dateGiven": "2021-10-03",
+      "dateDue": "2021-10-16",
+      "notes": "Be sure to video your response.",
+      "status": false
+    },
+    {
+      "userId": 1,
+      "courseId": 7,
+      "title": "Demo Day",
+      "dateGiven": "2021-10-09",
+      "dateDue": "2021-10-16",
+      "notes": "5 Min.",
+      "status": "",
+      "id": 5
+    }
+  ],
+  "schools": [
+    {
+      "id": 1,
+      "name": "Rubinshtein High",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "name": "Klos High",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "Miller High",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "name": "Coppens High",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "Pigford High",
+      "userId": 2
+    },
+    {
+      "userId": 1,
+      "name": "NSS",
+      "id": 6
+    }
+  ],
+  "courses": [
+    {
+      "userId": 1,
+      "name": "Science",
+      "teacherId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "name": "Logistics",
+      "teacherId": 3
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "name": "MLOAD",
+      "teacherId": 5
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "name": "OS/400",
+      "teacherId": 4
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "name": "MTT",
+      "teacherId": 2
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Juvederm",
+      "teacherId": 1
+    },
+    {
+      "userId": 1,
+      "name": "Math",
+      "teacherId": 4,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "name": "JavaScript 101",
+      "teacherId": 1,
+      "id": 7
+    }
+  ],
+  "teachers": [
+    {
+      "userId": 1,
+      "name": "Ms. Lincon",
+      "email": "mslincon@meme.org",
+      "schoolId": 1,
+      "id": 1
+    },
+    {
+      "id": 1,
+      "name": "Mounsey",
+      "userId": 3,
+      "email": "rmounsey0@dailymotion.com",
+      "schoolId": 1
+    },
+    {
+      "id": 2,
+      "name": "Decaze",
+      "userId": 3,
+      "email": "hdecaze1@statcounter.com",
+      "schoolId": 4
+    },
+    {
+      "id": 3,
+      "name": "Boddie",
+      "userId": 4,
+      "email": "aboddie2@acquirethisname.com",
+      "schoolId": 4
+    },
+    {
+      "id": 4,
+      "name": "MacEntee",
+      "userId": 1,
+      "email": "rmacentee3@desdev.cn",
+      "schoolId": 3
+    },
+    {
+      "id": 5,
+      "name": "Dolbey",
+      "userId": 5,
+      "email": "ldolbey4@naver.com",
+      "schoolId": 4
+    },
+    {
+      "userId": 1,
+      "name": "Michael Day",
+      "email": "me@me.com",
+      "schoolId": 2,
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "name": "Mr. Forest",
+      "email": "4EST@dscool.com",
+      "schoolId": 1,
+      "id": 7
+    }
+  ]
+}
