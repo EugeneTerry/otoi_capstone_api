@@ -9,6 +9,11 @@
       "email": "Mark.Hey@mnn.org",
       "name": "Mark Hay",
       "id": 2
+    },
+    {
+      "email": "Luck.Hey@mnn.org",
+      "name": "Lucky Day",
+      "id": 3
     }
   ],
   "assignments": [
