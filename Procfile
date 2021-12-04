@@ -1,1 +1,1 @@
-web: json-server database.json -p $PORT
+web: node server.js
