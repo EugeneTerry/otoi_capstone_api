@@ -1,1 +1,1 @@
-json-server database.json -p 
+web: json-server database.json -p $PORT
